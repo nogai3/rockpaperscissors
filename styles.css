@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&display=swap');
+
+body {
+    background-color: azure;
+    font-family: 'Comfortaa', monospace
+}
+
+button {
+    font-family: 'Comfortaa', monospace;
+    background-color: cornflowerblue;
+    border: none;
+    color: white;
+    font-size: 24px;
+}
+
+button:hover {
+    background-color:dodgerblue
+}
